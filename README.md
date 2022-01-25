@@ -3,7 +3,7 @@
 - 💻 I'm learning about Software Development and Data Engineering
 - 💬 Ask me about Computer Science, Data and Zombies 🧟
 - 🐶 I love dogs
-- 🏳️‍🌈 Pronouns: ele/dele
+- 🏳️‍🌈 Pronouns: him/his
 
 <div align="center">
   <a href="https://github.com/Marcone-Sudo">
