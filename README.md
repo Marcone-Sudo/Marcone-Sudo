@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm learning about Software Development, Data Analysis and Data Engineering<br>💬 Ask me about Computer Science, Data and Zombies 🧟<br>🐶 I love dogs<br>🏳️‍🌈 Pronouns: him/his
+💻 I'm learning about Software Development, Data Analysis and Data Engineering<br>💬 Ask me about Computer Science, Data and Zombies 🧟<br>🐶 I love dogs<br>
 
 
 ## 🌐 Socials:
